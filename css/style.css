@@ -400,10 +400,6 @@ footer {
   color: gray;
 }
 
-ul h4 {
-  color: inherit;
-}
-
 .map--image {
   border: 1px;
   border-radius: 10px;
@@ -550,6 +546,11 @@ li svg {
   top: 50%;
 }
 
+.footer--list .white--bold {
+  color: white;
+  font-weight: 800;
+}
+
 .section--classes--aboutus {
   background-image: url("/src/images/classesAboutUsBackground.jpg");
   background-repeat: no-repeat;
@@ -588,7 +589,7 @@ li svg {
   background-color: inherit;
 }
 
-#trainerPhoto {
+.trainerPhoto {
   margin-top: 2%;
   border-radius: 50%;
 }
@@ -805,10 +806,6 @@ nav a:hover {
   background-color: #5e7acf;
 }
 
-.link--trainers :hover {
-  cursor: pointer;
-}
-
 button:hover {
   cursor: pointer;
 }
@@ -824,4 +821,8 @@ a {
 
 .logo:hover {
   background-color: #e1e5ef;
+}
+
+table {
+  margin-top: 15px;
 }
