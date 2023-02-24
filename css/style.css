@@ -4,10 +4,19 @@ html {
   font-family: "Poppins", sans-serif;
 }
 
+html,
+body,
+main,
+section {
+  margin: 0;
+  padding: 0;
+}
+
 .index--body {
   background-image: url("/src/images/mainBackround.jpg");
   background-repeat: no-repeat;
   background-size: contain;
+
   margin: 0;
 }
 
@@ -17,8 +26,6 @@ html {
 }
 
 .img--transfer {
-  /* position: relative;
-  top: -40px; */
   margin-left: 20px;
 }
 
@@ -69,6 +76,8 @@ nav {
   background-image: url("/src/images/benefitsBackround.jpg");
   background-repeat: no-repeat;
   background-position-x: right;
+  margin-right: 0;
+  padding-right: 0;
 }
 
 li {
@@ -115,8 +124,7 @@ a {
 
 h2 {
   font-size: 40px;
-  /* position: relative;
-  top: -15px; */
+
   color: rgba(76, 119, 235, 0.8);
 }
 
@@ -131,12 +139,6 @@ h4 {
   font-size: 18px;
   color: #7492ec;
 }
-
-/* div p {
-  position: relative;
-  top: -30px;
-  font-size: 15px;
-} */
 
 .classes--section {
   position: relative;
@@ -351,11 +353,6 @@ p {
   justify-content: space-around;
 }
 
-.footer--info--element {
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
 .input--email {
   background-color: rgb(58, 57, 57);
   border: none;
@@ -373,30 +370,31 @@ form {
 footer {
   background-image: url(/src/images/footerBackground.png);
 }
-.footer--list {
-  display: flex;
-
-  flex-wrap: wrap;
-  justify-content: space-around;
+.footer--list--container {
+  display: grid;
+  gap: 20px 20px;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 350px));
+  justify-content: center;
 }
 
 .container--social--networks {
   display: flex;
   justify-content: left;
+  margin-left: 55px;
 }
 
-.footer--list ul {
+.footer--list--container ul {
   color: white;
 
-  margin: 20px;
+  padding: 0;
 }
 
-.footer--list li {
+.footer--list--container li {
   color: gray;
   margin-bottom: 6px;
 }
 
-.footer--list a {
+.footer--list--container a {
   color: gray;
 }
 
@@ -415,6 +413,7 @@ td {
 
 th {
   color: white;
+  /* font-size: 18px; */
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -522,12 +521,13 @@ li svg {
 
 #sectBackGroundRoad {
   background-image: url("/src/images/backGroundRoad.jpg");
-  height: 400px;
+  min-height: 400px;
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  padding: 0;
   margin: 0;
 }
 
@@ -546,7 +546,7 @@ li svg {
   top: 50%;
 }
 
-.footer--list .white--bold {
+.footer--list--container .white--bold {
   color: white;
   font-weight: 800;
 }
@@ -624,7 +624,7 @@ li svg {
 
 .medium--bold--blue--text {
   color: #7492ec;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
   position: static;
 }
@@ -701,14 +701,16 @@ article .button {
 }
 
 .card {
-  max-width: 200px;
-  min-width: 23%;
+  /* max-width: 200px; */
+
+  min-width: 200px;
   margin-left: 10px;
   margin-bottom: 60px;
 }
 
 .section--cards {
-  margin-top: 12%;
+  margin-top: 20px;
+  max-width: 800px;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -791,6 +793,8 @@ article .button {
 .secondary--pages--body {
   background-image: url("/src/images/backGroundAboutUs.png");
   background-repeat: no-repeat;
+  padding: 0;
+  margin: 0;
 }
 
 .container--login {
@@ -821,8 +825,4 @@ a {
 
 .logo:hover {
   background-color: #e1e5ef;
-}
-
-table {
-  margin-top: 15px;
 }

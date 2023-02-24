@@ -1,11 +1,11 @@
-6234
+6301
 71D:\Project\Yoga\node_modules\style-loader\dist\runtime\isEqualLocals.js133211321831431392 0
 33D:\Project\Yoga\src\trainersPhoto133150023153941693 1
 51D:\Project\Yoga\node_modules\events\tests\common.js133210522928550291 0
 80D:\Project\Yoga\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133212756643650603 0
 81D:\Project\Yoga\node_modules\webpack\schemas\plugins\LoaderOptionsPlugin.check.js133210522979746995 0
 61D:\Project\Yoga\node_modules\webpack\schemas\plugins\optimize133210523003169744 1
-20D:\Project\Yoga\dist133212768968577190 1
+20D:\Project\Yoga\dist133217423671464362 1
 43D:\Project\Yoga\node_modules\csso\lib\clean133212756663485124 1
 78D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133210522970501602 0
 40D:\Project\Yoga\src\icons\buttonIcon.png133138816969601909 0
@@ -13,7 +13,7 @@
 65D:\Project\Yoga\node_modules\@parcel\transformer-babel\lib\jsx.js133212756627262435 0
 55D:\Project\Yoga\src\images\classesAboutUsBackground.jpg133152405968659850 0
 59D:\Project\Yoga\node_modules\webpack\lib\UseStrictPlugin.js133210522988715849 0
-38D:\Project\Yoga\dist\jeff.035aebc1.jpg133212768891131501 0
+38D:\Project\Yoga\dist\jeff.035aebc1.jpg133217423670656520 0
 60D:\Project\Yoga\node_modules\webpack\lib\RequestShortener.js133210522984699032 0
 43D:\Project\Yoga\node_modules\yaml\README.md133212756666879984 0
 26D:\Project\Yoga\.gitignore133212201088817293 0
@@ -30,7 +30,8 @@
 64D:\Project\Yoga\node_modules\caniuse-lite\data\regions\alt-an.js133210522948197755 0
 39D:\Project\Yoga\node_modules\terser\bin133210522961726513 1
 42D:\Project\Yoga\node_modules\css-tree\data133212756679589793 1
-47D:\Project\Yoga\dist\workoutPhoto4.2c004634.jpg133212768891131501 0
+47D:\Project\Yoga\dist\workoutPhoto4.2c004634.jpg133217423670477000 0
+47D:\Project\Yoga\dist\workoutPhoto2.35197cec.jpg133212775706907843 0
 49D:\Project\Yoga\node_modules\terser\lib\output.js133210522960828938 0
 83D:\Project\Yoga\node_modules\webpack\schemas\plugins\LoaderOptionsPlugin.check.d.ts133210523003159778 0
 76D:\Project\Yoga\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.umd.js133210522923274389 0
@@ -44,7 +45,7 @@
 66D:\Project\Yoga\node_modules\caniuse-lite\data\features\ac3-ec3.js133210522930305584 0
 48D:\Project\Yoga\node_modules\micromatch\index.js133212756590129565 0
 52D:\Project\Yoga\node_modules\webpack\lib\Compiler.js133210522968011227 0
-28D:\Project\Yoga\aboutUs.html133212768728978493 0
+28D:\Project\Yoga\aboutUs.html133217415075620336 0
 80D:\Project\Yoga\node_modules\webpack\lib\dependencies\HarmonyAcceptDependency.js133210522975436390 0
 39D:\Project\Yoga\node_modules\parcel\src133212756617941650 1
 50D:\Project\Yoga\node_modules\utility-types\LICENSE133212756588818733 0
@@ -157,12 +158,12 @@
 53D:\Project\Yoga\node_modules\abortcontroller-polyfill133212756627422034 1
 26D:\Project\Yoga\src\images133205789554890186 1
 66D:\Project\Yoga\node_modules\css-tree\lib\syntax\scope\selector.js133212756678299012 0
-28D:\Project\Yoga\package.json133212768944370558 0
+28D:\Project\Yoga\package.json133212773989223400 0
 51D:\Project\Yoga\node_modules\term-size\vendor\macos133212756604861213 1
 74D:\Project\Yoga\node_modules\webpack\schemas\plugins\IgnorePlugin.check.js133210522976805829 0
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\PR.js133210522988626084 0
 65D:\Project\Yoga\node_modules\webpack\lib\node\NodeSourcePlugin.js133210522982615537 0
-40D:\Project\Yoga\dist\classes.d63ea67d.js133212768890251081 0
+40D:\Project\Yoga\dist\classes.d63ea67d.js133217423670267562 0
 107D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased-file\package.json133212756676966755 0
 86D:\Project\Yoga\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133212756617403649 0
 44D:\Project\Yoga\node_modules\htmlparser2\lib133212756634529638 1
@@ -179,7 +180,7 @@
 50D:\Project\Yoga\node_modules\ajv\lib\dot\const.jst133210522963372119 0
 22D:\Project\Yoga\src\js133156986099779044 1
 77D:\Project\Yoga\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.mjs.map133210522929417960 0
-28D:\Project\Yoga\pricing.html133212767616931228 0
+28D:\Project\Yoga\pricing.html133217378177581626 0
 51D:\Project\Yoga\node_modules\detect-libc\.npmignore133212756590129565 0
 69D:\Project\Yoga\node_modules\webpack\lib\optimize\InnerGraphPlugin.js133210522977727413 0
 74D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-paged-media.js133210522973556099 0
@@ -276,6 +277,7 @@
 65D:\Project\Yoga\node_modules\@parcel\package-manager\lib\index.js133212756611742049 0
 53D:\Project\Yoga\node_modules\webpack\lib\dependencies133210522994393391 1
 54D:\Project\Yoga\node_modules\resolve-from\package.json133212756588738401 0
+38D:\Project\Yoga\dist\index.8d76c64d.js133212775707064060 0
 50D:\Project\Yoga\src\images\advancedBackBending.jpg133205780985844217 0
 49D:\Project\Yoga\node_modules\lmdb\dependencies\v8133212756679188482 1
 86D:\Project\Yoga\node_modules\webpack\lib\dependencies\ImportMetaHotAcceptDependency.js133210522976995299 0
@@ -335,7 +337,7 @@
 54D:\Project\Yoga\node_modules\@parcel\core\lib\types.js133212756681041918 0
 44D:\Project\Yoga\src\images\workoutPhoto1.jpg133137943322092197 0
 44D:\Project\Yoga\src\images\workoutPhoto3.jpg133137943853643769 0
-34D:\Project\Yoga\node_modules\@lmdb133212767432649614 1
+34D:\Project\Yoga\node_modules\@lmdb133212768942662202 1
 82D:\Project\Yoga\node_modules\@parcel\runtime-js\src\helpers\browser\html-loader.js133212756635110243 0
 81D:\Project\Yoga\node_modules\webpack\schemas\plugins\container\ExternalsType.json133210522997482299 0
 60D:\Project\Yoga\node_modules\@webassemblyjs\ast\lib\clone.js133210522951221123 0
@@ -522,7 +524,7 @@
 78D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-read-only-write.js133210522973685761 0
 82D:\Project\Yoga\node_modules\webpack\schemas\plugins\asset\AssetParserOptions.json133210522996472637 0
 89D:\Project\Yoga\node_modules\webpack\lib\dependencies\CssSelfLocalIdentifierDependency.js133210522971648547 0
-46D:\Project\Yoga\node_modules\@msgpackr-extract133212768931607842 1
+46D:\Project\Yoga\node_modules\@msgpackr-extract133212768942662202 1
 66D:\Project\Yoga\node_modules\@parcel\package-manager\test\fixtures133212756657436017 1
 36D:\Project\Yoga\node_modules\@parcel133212768931647732 1
 51D:\Project\Yoga\node_modules\xxhash-wasm\LICENSE.md133212756620692708 0
@@ -559,7 +561,7 @@
 70D:\Project\Yoga\node_modules\@parcel\core\lib\requests\EntryRequest.js133212756671123477 0
 58D:\Project\Yoga\node_modules\type-fest\source\mutable.d.ts133212756641332895 0
 34D:\Project\Yoga\node_modules\acorn133210522943779556 1
-47D:\Project\Yoga\dist\handstandPose.5e7dcd2b.jpg133212768890600223 0
+47D:\Project\Yoga\dist\handstandPose.5e7dcd2b.jpg133217423664293525 0
 52D:\Project\Yoga\node_modules\acorn-import-assertions133210522929148683 1
 45D:\Project\Yoga\node_modules\ajv\scripts\info133210522922526391 0
 64D:\Project\Yoga\node_modules\webpack-sources\lib\ConcatSource.js133210522928979134 0
@@ -587,6 +589,7 @@
 41D:\Project\Yoga\node_modules\browserslist133210522943989017 1
 55D:\Project\Yoga\node_modules\neo-async\priorityQueue.js133210522963292325 0
 45D:\Project\Yoga\node_modules\v8-compile-cache133212756610565175 1
+41D:\Project\Yoga\dist\Jesicca.9b578b9f.jpg133212775706907843 0
 37D:\Project\Yoga\node_modules\boolbase133212756592520268 1
 80D:\Project\Yoga\node_modules\webpack\lib\runtime\GetMainFilenameRuntimeModule.js133210522975326681 0
 35D:\Project\Yoga\node_modules\braces133212756611373055 1
@@ -700,6 +703,7 @@
 37D:\Project\Yoga\node_modules\error-ex133212756598561934 1
 55D:\Project\Yoga\node_modules\nth-check\lib\esm\index.js133212756605000847 0
 69D:\Project\Yoga\node_modules\type-fest\source\fixed-length-array.d.ts133212756629445349 0
+39D:\Project\Yoga\dist\dough.72d318be.jpg133212775707064060 0
 48D:\Project\Yoga\node_modules\htmlnano\index.d.ts133212756673733233 0
 82D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-repeating-gradients.js133210522974289462 0
 35D:\Project\Yoga\node_modules\semver133212756618548763 1
@@ -776,6 +780,7 @@
 58D:\Project\Yoga\node_modules\mdn-data\api\inheritance.json133212756626008315 0
 85D:\Project\Yoga\node_modules\webpack\schemas\plugins\HashedModuleIdsPlugin.check.d.ts133210523003089963 0
 78D:\Project\Yoga\node_modules\webpack\lib\dependencies\ExportsInfoDependency.js133210522974568712 0
+50D:\Project\Yoga\dist\apple-touch-icon.098dd103.png133212775706907843 0
 38D:\Project\Yoga\node_modules\term-size133212756622358501 1
 52D:\Project\Yoga\node_modules\domhandler\lib\index.js133212756590289145 0
 68D:\Project\Yoga\node_modules\caniuse-lite\data\features\indexeddb.js133210522980816293 0
@@ -839,7 +844,7 @@
 55D:\Project\Yoga\node_modules\msgpackr-extract\README.md133212756618739845 0
 64D:\Project\Yoga\node_modules\uri-js\dist\esnext\regexps-uri.d.ts133210522959525154 0
 36D:\Project\Yoga\node_modules\webpack133210523003339291 1
-41D:\Project\Yoga\dist\Jesicca.d7f55c24.jpg133212768890685122 0
+41D:\Project\Yoga\dist\Jesicca.d7f55c24.jpg133217423664313474 0
 42D:\Project\Yoga\node_modules\node-releases133210522934604104 1
 73D:\Project\Yoga\node_modules\dom-serializer\node_modules\entities\LICENSE133212756589321798 0
 90D:\Project\Yoga\node_modules\webpack\lib\dependencies\HarmonyExportExpressionDependency.js133210522975556076 0
@@ -947,7 +952,7 @@
 35D:\Project\Yoga\node_modules\terser133210522962843515 1
 51D:\Project\Yoga\node_modules\ajv\lib\dot\errors.def133210522942014285 0
 51D:\Project\Yoga\node_modules\node-gyp-build\LICENSE133212756588798717 0
-44D:\Project\Yoga\dist\classes.d63ea67d.js.map133212768891772811 0
+44D:\Project\Yoga\dist\classes.d63ea67d.js.map133217423671344679 0
 64D:\Project\Yoga\node_modules\webpack\lib\css\CssModulesPlugin.js133210522971538838 0
 53D:\Project\Yoga\node_modules\terser\tools\domprops.js133210522955583233 0
 62D:\Project\Yoga\node_modules\@parcel\core\lib\applyRuntimes.js133212756634120726 0
@@ -972,7 +977,7 @@
 55D:\Project\Yoga\node_modules\@parcel\utils\lib\index.js133212756661645503 0
 79D:\Project\Yoga\node_modules\webpack\schemas\plugins\WatchIgnorePlugin.check.js133210522990647965 0
 69D:\Project\Yoga\node_modules\caniuse-lite\data\features\array-find.js133210522955732833 0
-40D:\Project\Yoga\dist\energy.cf863270.png133212768891110968 0
+40D:\Project\Yoga\dist\energy.cf863270.png133217423670307455 0
 99D:\Project\Yoga\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\LICENSE133212756589331766 0
 34D:\Project\Yoga\node_modules\tslib133212756624266449 1
 64D:\Project\Yoga\node_modules\css-tree\lib\syntax\node\AnPlusB.js133212756604970956 0
@@ -993,6 +998,7 @@
 75D:\Project\Yoga\node_modules\dom-serializer\node_modules\entities\readme.md133212756628858100 0
 33D:\Project\Yoga\node_modules\yaml133212756669589878 1
 38D:\Project\Yoga\node_modules\yaml\dist133212756663114630 1
+51D:\Project\Yoga\dist\workTowCompasPose.3244cc4a.jpg133212775706907843 0
 42D:\Project\Yoga\node_modules\yaml\index.js133212756623025171 0
 78D:\Project\Yoga\node_modules\webpack\lib\serialization\SingleItemMiddleware.js133210522986609280 0
 41D:\Project\Yoga\node_modules\yaml\LICENSE133212756588748384 0
@@ -1005,7 +1011,7 @@
 40D:\Project\Yoga\node_modules\yaml\map.js133212756626791263 0
 52D:\Project\Yoga\node_modules\@parcel\optimizer-image133212756678789550 1
 80D:\Project\Yoga\node_modules\webpack\lib\dependencies\RequireEnsureDependency.js133210522984858602 0
-58D:\Project\Yoga\dist\classesSectionBackground.ff0e68ab.jpg133212768884416927 0
+58D:\Project\Yoga\dist\classesSectionBackground.ff0e68ab.jpg133217423662418537 0
 47D:\Project\Yoga\node_modules\neo-async\times.js133210522966320231 0
 41D:\Project\Yoga\node_modules\yaml\pair.js133212756634360096 0
 47D:\Project\Yoga\node_modules\msgpackr\pack.d.ts133212756666959777 0
@@ -1047,7 +1053,7 @@
 48D:\Project\Yoga\node_modules\ordered-binary\dist133212756589990024 1
 80D:\Project\Yoga\node_modules\@swc\helpers\lib\_class_private_field_loose_base.js133212756641572264 0
 47D:\Project\Yoga\node_modules\parse-json\license133212756588778297 0
-43D:\Project\Yoga\dist\yogaWoman.339a5cec.png133212768891927462 0
+43D:\Project\Yoga\dist\yogaWoman.339a5cec.png133217423671035506 0
 52D:\Project\Yoga\node_modules\yaml\types\timestamp.js133212756659454745 0
 79D:\Project\Yoga\node_modules\webpack\lib\library\ExportPropertyLibraryPlugin.js133210522974488918 0
 68D:\Project\Yoga\node_modules\css-tree\lib\definition-syntax\index.js133212756671013756 0
@@ -1180,6 +1186,7 @@
 59D:\Project\Yoga\node_modules\@parcel\fs-search\package.json133212756594284759 0
 54D:\Project\Yoga\node_modules\webpack-sources\README.md133210522954795339 0
 64D:\Project\Yoga\node_modules\webpack-sources\lib\CachedSource.js133210522923324255 0
+40D:\Project\Yoga\dist\taylor.32a2443b.jpg133212775707064060 0
 56D:\Project\Yoga\node_modules\tapable\lib\SyncBailHook.js133210522946621957 0
 64D:\Project\Yoga\node_modules\webpack-sources\lib\CompatSource.js133210522924560952 0
 84D:\Project\Yoga\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\020-usage.md133212756668181880 0
@@ -1211,6 +1218,7 @@
 97D:\Project\Yoga\node_modules\webpack\schemas\plugins\asset\AssetResourceGeneratorOptions.check.js133210522956590536 0
 55D:\Project\Yoga\node_modules\@types\node\ts4.8\tls.d.ts133210522971319423 0
 62D:\Project\Yoga\node_modules\css-tree\lib\syntax\pseudo\not.js133212756676996662 0
+52D:\Project\Yoga\dist\teachersBackground.aef92a0f.jpg133212775706907843 0
 83D:\Project\Yoga\node_modules\webpack\schemas\plugins\container\ContainerPlugin.json133210522996894987 0
 46D:\Project\Yoga\node_modules\tapable\README.md133210522948417165 0
 72D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-gradients.js133210522971708385 0
@@ -1226,6 +1234,7 @@
 53D:\Project\Yoga\node_modules\ajv\lib\compile\index.js133210522959485266 0
 64D:\Project\Yoga\node_modules\webpack\lib\RequireJsStuffPlugin.js133210522985115861 0
 84D:\Project\Yoga\node_modules\webpack-sources\lib\helpers\createMappingsSerializer.js133210522932469800 0
+51D:\Project\Yoga\dist\benefitsBackround.69784753.jpg133212775706907843 0
 79D:\Project\Yoga\node_modules\webpack-sources\lib\helpers\getFromStreamChunks.js133210522936120051 0
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\FR.js133210522978246470 0
 46D:\Project\Yoga\node_modules\semver\bin\semver133212756590488607 0
@@ -1273,6 +1282,7 @@
 47D:\Project\Yoga\node_modules\webpack\types.d.ts133210523003531420 0
 54D:\Project\Yoga\node_modules\neo-async\setImmediate.js133210522964608804 0
 71D:\Project\Yoga\node_modules\webpack\lib\logging\createConsoleLogger.js133210522971179792 0
+51D:\Project\Yoga\dist\backGroundPricing.4c13a96e.jpg133212775706907843 0
 88D:\Project\Yoga\node_modules\webpack\schemas\plugins\asset\AssetParserOptions.check.d.ts133210523002850603 0
 70D:\Project\Yoga\node_modules\webpack\schemas\WebpackOptions.check.d.ts133210523003601234 0
 86D:\Project\Yoga\node_modules\dom-serializer\node_modules\entities\lib\maps\legacy.json133212756621090017 0
@@ -1281,7 +1291,7 @@
 84D:\Project\Yoga\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133212756618111952 0
 58D:\Project\Yoga\node_modules\ajv\lib\dotjs\_limitLength.js133210522947200408 0
 68D:\Project\Yoga\node_modules\webpack\schemas\WebpackOptions.check.js133210522994112107 0
-40D:\Project\Yoga\dist\aboutUs.eb9b7118.js133212768890251081 0
+40D:\Project\Yoga\dist\aboutUs.eb9b7118.js133217423670267562 0
 48D:\Project\Yoga\node_modules\terser\bin\uglifyjs133210522928560257 0
 57D:\Project\Yoga\node_modules\webpack\lib\ProvidePlugin.js133210522984180421 0
 45D:\Project\Yoga\node_modules\stable\stable.js133212756604406559 0
@@ -1406,7 +1416,7 @@
 55D:\Project\Yoga\node_modules\lmdb\util\RangeIterable.js133212756679819198 0
 46D:\Project\Yoga\node_modules\neo-async\pick.js133210522963132753 0
 60D:\Project\Yoga\node_modules\css-select\lib\compile.d.ts.map133212756634280297 0
-43D:\Project\Yoga\dist\bodyShape.4e9afd57.png133212768890715035 0
+43D:\Project\Yoga\dist\bodyShape.4e9afd57.png133217423664313474 0
 77D:\Project\Yoga\node_modules\@swc\helpers\src\_class_apply_descriptor_get.mjs133212756677958055 0
 67D:\Project\Yoga\node_modules\webpack\lib\util\binarySearchBounds.js133210522961527042 0
 88D:\Project\Yoga\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.1133212756636511853 0
@@ -1430,6 +1440,7 @@
 80D:\Project\Yoga\node_modules\webpack\lib\runtime\CreateScriptUrlRuntimeModule.js133210522971299476 0
 44D:\Project\Yoga\node_modules\source-map\dist133210522954895076 1
 70D:\Project\Yoga\node_modules\caniuse-lite\data\features\input-event.js133210522981015735 0
+47D:\Project\Yoga\dist\workoutPhoto1.02fc6039.jpg133212775706907843 0
 81D:\Project\Yoga\node_modules\webpack\schemas\plugins\css\CssGeneratorOptions.json133210522996954830 0
 83D:\Project\Yoga\node_modules\webpack\lib\wasm-sync\WasmChunkLoadingRuntimeModule.js133210522990448912 0
 84D:\Project\Yoga\node_modules\webpack\schemas\plugins\css\CssParserOptions.check.d.ts133210523003010169 0
@@ -1446,7 +1457,7 @@
 75D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-unicode-bidi.js133210522974788121 0
 49D:\Project\Yoga\node_modules\terser\lib\minify.js133210522959515186 0
 66D:\Project\Yoga\node_modules\source-map\dist\source-map.min.js.map133210522955802654 0
-51D:\Project\Yoga\dist\benefitsBackround.7879f398.jpg133212768884347116 0
+51D:\Project\Yoga\dist\benefitsBackround.7879f398.jpg133217423662438484 0
 72D:\Project\Yoga\node_modules\webpack\lib\serialization\FileMiddleware.js133210522974897834 0
 84D:\Project\Yoga\node_modules\@swc\helpers\lib\_class_apply_descriptor_destructure.js133212756625860990 0
 87D:\Project\Yoga\node_modules\webpack\schemas\plugins\container\ContainerPlugin.check.js133210522970730999 0
@@ -1478,7 +1489,7 @@
 52D:\Project\Yoga\node_modules\chrome-trace-event\dist133210522934494381 1
 94D:\Project\Yoga\node_modules\webpack\schemas\plugins\container\ModuleFederationPlugin.check.js133210522980925979 0
 90D:\Project\Yoga\node_modules\webpack\schemas\plugins\container\ModuleFederationPlugin.json133210522998693136 0
-51D:\Project\Yoga\dist\backGroundAboutUs.e46cf8a7.png133212768884446842 0
+51D:\Project\Yoga\dist\backGroundAboutUs.e46cf8a7.png133217423662817463 0
 45D:\Project\Yoga\node_modules\neo-async\log.js133210522961437289 0
 66D:\Project\Yoga\node_modules\@parcel\core\lib\public\Dependency.js133212756668251695 0
 92D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\dist.js133212756645089660 0
@@ -1524,7 +1535,7 @@
 59D:\Project\Yoga\node_modules\htmlparser2\lib\Tokenizer.d.ts133212756634200527 0
 59D:\Project\Yoga\node_modules\schema-utils\declarations\util133210522947758915 1
 63D:\Project\Yoga\node_modules\webpack\lib\CodeGenerationError.js133210522964469179 0
-52D:\Project\Yoga\dist\teachersBackground.51acb7b6.jpg133212768884446842 0
+52D:\Project\Yoga\dist\teachersBackground.51acb7b6.jpg133217423662428507 0
 69D:\Project\Yoga\node_modules\webpack\lib\CommentCompilationWarning.js133210522964628744 0
 58D:\Project\Yoga\node_modules\events\tests\legacy-compat.js133210522943510285 0
 55D:\Project\Yoga\node_modules\htmlparser2\lib\index.d.ts133212756628035915 0
@@ -1547,7 +1558,7 @@
 66D:\Project\Yoga\node_modules\@jridgewell\sourcemap-codec\README.md133210522936120051 0
 87D:\Project\Yoga\node_modules\webpack\lib\dependencies\ImportMetaHotDeclineDependency.js133210522977015255 0
 80D:\Project\Yoga\node_modules\webpack\lib\dependencies\StaticExportsDependency.js133210522987082088 0
-33D:\Project\Yoga\dist\pricing.html133212768890221175 0
+33D:\Project\Yoga\dist\pricing.html133217423662398596 0
 66D:\Project\Yoga\node_modules\webpack\lib\ContextExclusionPlugin.js133210522971010247 0
 70D:\Project\Yoga\node_modules\fast-json-stable-stringify\test\nested.js133210522938423884 0
 48D:\Project\Yoga\node_modules\lmdb\src\cursor.cpp133212756677076451 0
@@ -1572,6 +1583,7 @@
 74D:\Project\Yoga\node_modules\ajv-keywords\keywords\dot\patternRequired.jst133210522946951084 0
 46D:\Project\Yoga\node_modules\mdn-data\index.js133212756604960948 0
 63D:\Project\Yoga\node_modules\cosmiconfig\dist\Explorer.d.ts.map133212756627282446 0
+38D:\Project\Yoga\dist\hand.26808966.png133212775706907843 0
 62D:\Project\Yoga\node_modules\webpack\lib\DynamicEntryPlugin.js133210522973526182 0
 55D:\Project\Yoga\node_modules\webpack\lib\EntryPlugin.js133210522974329357 0
 60D:\Project\Yoga\node_modules\webpack\lib\ModuleParseError.js133210522981175317 0
@@ -1945,6 +1957,7 @@
 66D:\Project\Yoga\node_modules\@parcel\cache\src\IDBCache.browser.js133212756611552559 0
 40D:\Project\Yoga\node_modules\terser\dist133210522961826242 1
 62D:\Project\Yoga\node_modules\webpack\lib\stats\StatsPrinter.js133210522987161871 0
+40D:\Project\Yoga\dist\Ashley.af7c5334.jpg133212775707064060 0
 43D:\Project\Yoga\node_modules\uri-js\LICENSE133210522922406742 0
 83D:\Project\Yoga\node_modules\webpack\lib\sharing\ConsumeSharedFallbackDependency.js133210522968460005 0
 75D:\Project\Yoga\node_modules\@parcel\core\lib\requests\ValidationRequest.js133212756681400963 0
@@ -1987,7 +2000,7 @@
 51D:\Project\Yoga\node_modules\schema-utils\dist\util133210522935541583 1
 74D:\Project\Yoga\node_modules\webpack\lib\runtime\ChunkNameRuntimeModule.js133210522963422089 0
 87D:\Project\Yoga\node_modules\webpack\lib\runtime\CompatGetDefaultExportRuntimeModule.js133210522967283156 0
-44D:\Project\Yoga\dist\restaurant.b6037ab3.png133212768891266593 0
+44D:\Project\Yoga\dist\restaurant.b6037ab3.png133217423670706395 0
 53D:\Project\Yoga\node_modules\neo-async\rejectLimit.js133210522963691264 0
 77D:\Project\Yoga\node_modules\webpack\lib\runtime\CreateScriptRuntimeModule.js133210522971259576 0
 54D:\Project\Yoga\node_modules\@babel\code-frame\LICENSE133212756588718456 0
@@ -2032,7 +2045,7 @@
 77D:\Project\Yoga\node_modules\@babel\highlight\node_modules\color-name\test.js133212756611933179 0
 56D:\Project\Yoga\node_modules\terser-webpack-plugin\types133210522943979024 1
 78D:\Project\Yoga\node_modules\webpack\lib\runtime\SystemContextRuntimeModule.js133210522987211746 0
-48D:\Project\Yoga\dist\backGroundRoad.70205b1c.jpg133212768885055213 0
+48D:\Project\Yoga\dist\backGroundRoad.70205b1c.jpg133217423662797537 0
 72D:\Project\Yoga\node_modules\webpack\lib\rules\BasicMatcherRulePlugin.js133210522961307630 0
 61D:\Project\Yoga\node_modules\@jridgewell\set-array\dist\types133210522939191829 1
 51D:\Project\Yoga\node_modules\mdn-data\l10n\css.json133212756623385850 0
@@ -2105,6 +2118,7 @@
 73D:\Project\Yoga\node_modules\webpack\lib\library\AbstractLibraryPlugin.js133210522923793005 0
 71D:\Project\Yoga\node_modules\webpack\lib\library\ModuleLibraryPlugin.js133210522981135416 0
 62D:\Project\Yoga\node_modules\svgo\plugins\removeHiddenElems.js133212756664377502 0
+43D:\Project\Yoga\dist\index.8845453e.css.map133212775707802529 0
 71D:\Project\Yoga\node_modules\webpack\lib\library\SystemLibraryPlugin.js133210522987241652 0
 74D:\Project\Yoga\node_modules\@swc\helpers\lib\_class_private_field_init.js133212756641372799 0
 57D:\Project\Yoga\node_modules\neo-async\mapValuesSeries.js133210522961856159 0
@@ -2208,7 +2222,7 @@
 73D:\Project\Yoga\node_modules\webpack\lib\dependencies\ImportDependency.js133210522976875625 0
 73D:\Project\Yoga\node_modules\webpack\lib\dependencies\ImportMetaPlugin.js133210522977035200 0
 46D:\Project\Yoga\node_modules\style-loader\dist133211321832887577 1
-41D:\Project\Yoga\dist\svetlin.97a4c22c.jpg133212768890685122 0
+41D:\Project\Yoga\dist\svetlin.97a4c22c.jpg133217423664313474 0
 63D:\Project\Yoga\node_modules\caniuse-lite\data\features\apng.js133210522955363817 0
 75D:\Project\Yoga\node_modules\webpack\lib\dependencies\ImportParserPlugin.js133210522977055152 0
 75D:\Project\Yoga\node_modules\@swc\helpers\src\_class_private_method_get.mjs133212756678510289 0
@@ -2218,7 +2232,7 @@
 88D:\Project\Yoga\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c133212756659255296 0
 78D:\Project\Yoga\node_modules\webpack\lib\dependencies\JsonExportsDependency.js133210522978186621 0
 79D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-overflow-overlay.js133210522973496273 0
-50D:\Project\Yoga\dist\apple-touch-icon.69428293.png133212768884317191 0
+50D:\Project\Yoga\dist\apple-touch-icon.69428293.png133217423662418537 0
 68D:\Project\Yoga\node_modules\@parcel\core\test\InternalAsset.test.js133212756674341598 0
 69D:\Project\Yoga\node_modules\webpack\lib\dependencies\LoaderPlugin.js133210522979846744 0
 78D:\Project\Yoga\node_modules\webpack\lib\dependencies\LocalModuleDependency.js133210522979966416 0
@@ -2290,7 +2304,7 @@
 41D:\Project\Yoga\node_modules\ajv\lib\refs133210522962833544 1
 67D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-zoom.js133210522974947700 0
 67D:\Project\Yoga\node_modules\webpack\lib\cache\getLazyHashedEtag.js133210522975316714 0
-33D:\Project\Yoga\dist\classes.html133212768890221175 0
+33D:\Project\Yoga\dist\classes.html133217423662398596 0
 49D:\Project\Yoga\node_modules\nullthrows\README.md133212756611861732 0
 73D:\Project\Yoga\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64133212756612333662 1
 76D:\Project\Yoga\node_modules\@parcel\core\src\requests\ParcelBuildRequest.js133212756677878271 0
@@ -2412,7 +2426,7 @@
 45D:\Project\Yoga\node_modules\type-fest\source133212756657366211 1
 71D:\Project\Yoga\node_modules\lightningcss\node\browserslistToTargets.js133212756619559440 0
 52D:\Project\Yoga\node_modules\csso\lib\replace\atrule133212756657096925 1
-40D:\Project\Yoga\dist\taylor.aa05dce5.jpg133212768891131501 0
+40D:\Project\Yoga\dist\taylor.aa05dce5.jpg133217423670626608 0
 40D:\Project\Yoga\node_modules\uri-js\dist133210522942014285 1
 61D:\Project\Yoga\node_modules\@parcel\resolver-default\LICENSE133212756589114600 0
 74D:\Project\Yoga\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133212756621358084 0
@@ -2430,6 +2444,7 @@
 51D:\Project\Yoga\node_modules\neo-async\someLimit.js133210522964698558 0
 44D:\Project\Yoga\node_modules\uri-js\dist\es5133210522959674765 1
 68D:\Project\Yoga\node_modules\ordered-binary\.idea\ordered-binary.iml133212756597247675 0
+47D:\Project\Yoga\dist\favicon-32x32.6fa32d94.png133212775706907843 0
 61D:\Project\Yoga\node_modules\tapable\lib\SyncWaterfallHook.js133210522947699079 0
 47D:\Project\Yoga\node_modules\uri-js\dist\esnext133210522960798984 1
 56D:\Project\Yoga\node_modules\uri-js\dist\esnext\index.js133210522932260380 0
@@ -2452,6 +2467,7 @@
 63D:\Project\Yoga\node_modules\uri-js\dist\esnext\schemes\http.js133210522923972516 0
 85D:\Project\Yoga\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map133212756626072398 0
 67D:\Project\Yoga\node_modules\uri-js\dist\esnext\schemes\http.js.map133210522952597159 0
+47D:\Project\Yoga\dist\workoutPhoto4.aa15a355.jpg133212775706907843 0
 76D:\Project\Yoga\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133212756590721658 0
 56D:\Project\Yoga\node_modules\supports-color\package.json133210522925777693 0
 44D:\Project\Yoga\node_modules\clone\clone.iml133212756612293705 0
@@ -2659,7 +2675,7 @@
 63D:\Project\Yoga\node_modules\node-addon-api\tools\check-napi.js133212756626312921 0
 54D:\Project\Yoga\node_modules\terser\lib\mozilla-ast.js133210522959674765 0
 72D:\Project\Yoga\node_modules\enhanced-resolve\lib\CloneBasenamePlugin.js133210522935790929 0
-42D:\Project\Yoga\dist\index.09c24910.js.map133212768889752779 0
+42D:\Project\Yoga\dist\index.09c24910.js.map133217423663356036 0
 118D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo133212756678410551 1
 63D:\Project\Yoga\node_modules\tapable\lib\AsyncSeriesBailHook.js133210522928530337 0
 45D:\Project\Yoga\node_modules\terser\lib\utils133210522957338538 1
@@ -2696,7 +2712,7 @@
 67D:\Project\Yoga\node_modules\term-size\vendor\windows\term-size.exe133212756612363529 0
 62D:\Project\Yoga\node_modules\@parcel\core\test\fixtures\parcel133212756682141093 1
 61D:\Project\Yoga\node_modules\term-size\vendor\macos\term-size133212756605718943 0
-46D:\Project\Yoga\dist\beginnerPose.e4013c73.jpg133212768884506693 0
+46D:\Project\Yoga\dist\beginnerPose.e4013c73.jpg133217423662438484 0
 69D:\Project\Yoga\node_modules\enhanced-resolve\lib\FileExistsPlugin.js133210522947639237 0
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\BI.js133210522962673976 0
 40D:\Project\Yoga\node_modules\tapable\lib133210522947828732 1
@@ -2873,6 +2889,7 @@
 49D:\Project\Yoga\node_modules\source-map\README.md133210522923274389 0
 62D:\Project\Yoga\node_modules\domelementtype\lib\esm\index.d.ts133212756622150140 0
 57D:\Project\Yoga\node_modules\source-map\lib\base64-vlq.js133210522935940523 0
+54D:\Project\Yoga\dist\seatedAndSupinePose2.e8f1da49.jpg133212775706907843 0
 53D:\Project\Yoga\node_modules\source-map\lib\base64.js133210522938154603 0
 66D:\Project\Yoga\node_modules\parcel\node_modules\commander\esm.mjs133212756620008032 0
 58D:\Project\Yoga\node_modules\regenerator-runtime\README.md133212756610744705 0
@@ -2894,7 +2911,7 @@
 45D:\Project\Yoga\node_modules\semver\semver.js133212756610294466 0
 54D:\Project\Yoga\node_modules\schema-utils\declarations133210522948257581 1
 55D:\Project\Yoga\node_modules\nth-check\lib\index.js.map133212756633934762 0
-38D:\Project\Yoga\dist\login.3249096d.js133212768885240345 0
+38D:\Project\Yoga\dist\login.3249096d.js133217423663296187 0
 77D:\Project\Yoga\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs133210522941944539 0
 46D:\Project\Yoga\node_modules\schema-utils\dist133210522940059512 1
 49D:\Project\Yoga\node_modules\schema-utils\LICENSE133210522922456577 0
@@ -3240,7 +3257,7 @@
 48D:\Project\Yoga\node_modules\neo-async\README.md133210522967342988 0
 42D:\Project\Yoga\node_modules\@parcel\utils133212756673992605 1
 48D:\Project\Yoga\node_modules\neo-async\reduce.js133210522963441924 0
-46D:\Project\Yoga\dist\backyNiklson.2e4e9cde.jpg133212768890685122 0
+46D:\Project\Yoga\dist\backyNiklson.2e4e9cde.jpg133217423664303499 0
 41D:\Project\Yoga\node_modules\entities\lib133212756645599830 1
 41D:\Project\Yoga\node_modules\mdn-data\api133212756627262435 1
 63D:\Project\Yoga\node_modules\@parcel\core\lib\CommittedAsset.js133212756662066619 0
@@ -3259,7 +3276,7 @@
 47D:\Project\Yoga\node_modules\json5\package.json133212756625597428 0
 67D:\Project\Yoga\node_modules\css-tree\lib\syntax\node\Combinator.js133212756634579504 0
 57D:\Project\Yoga\node_modules\neo-async\transformSeries.js133210522967063742 0
-46D:\Project\Yoga\dist\lotosPoseBig.d1f34010.jpg133212768890655207 0
+46D:\Project\Yoga\dist\lotosPoseBig.d1f34010.jpg133217423664303499 0
 51D:\Project\Yoga\node_modules\neo-async\waterfall.js133210522967263210 0
 67D:\Project\Yoga\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133212756629455348 0
 62D:\Project\Yoga\node_modules\@parcel\packager-css\package.json133212756605728911 0
@@ -3296,7 +3313,7 @@
 49D:\Project\Yoga\node_modules\msgpackr\unpack.d.ts133212756667089410 0
 71D:\Project\Yoga\node_modules\htmlnano\lib\modules\collapseWhitespace.js133212756618818216 0
 63D:\Project\Yoga\node_modules\msgpackr\dist\index-no-eval.min.js133212756622150140 0
-39D:\Project\Yoga\dist\dough.80cb6e19.jpg133212768891266593 0
+39D:\Project\Yoga\dist\dough.80cb6e19.jpg133217423670656520 0
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\NA.js133210522985371719 0
 52D:\Project\Yoga\node_modules\@xtuc\long\package.json133210522922436631 0
 67D:\Project\Yoga\node_modules\msgpackr\dist\index-no-eval.min.js.map133212756648528291 0
@@ -3531,7 +3548,7 @@
 49D:\Project\Yoga\node_modules\json5\lib\unicode.js133212756623395822 0
 65D:\Project\Yoga\node_modules\@webassemblyjs\helper-buffer\LICENSE133210522923054988 0
 48D:\Project\Yoga\node_modules\json5\lib\util.d.ts133212756638355585 0
-47D:\Project\Yoga\dist\mainBackround.395fda76.jpg133212768885140593 0
+47D:\Project\Yoga\dist\mainBackround.395fda76.jpg133217423663016942 0
 52D:\Project\Yoga\node_modules\json5\dist\index.min.js133212756611363059 0
 56D:\Project\Yoga\node_modules\ajv\lib\dotjs\multipleOf.js133210522959824351 0
 62D:\Project\Yoga\node_modules\@jridgewell\resolve-uri\README.md133210522936000362 0
@@ -3543,6 +3560,7 @@
 58D:\Project\Yoga\node_modules\json-schema-traverse\index.js133210522925777693 0
 57D:\Project\Yoga\node_modules\json-schema-traverse\LICENSE133210522930754388 0
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\GI.js133210522978943711 0
+47D:\Project\Yoga\dist\benefitsPhoto.08b621a4.jpg133212775706907843 0
 62D:\Project\Yoga\node_modules\json-schema-traverse\package.json133210522922406742 0
 59D:\Project\Yoga\node_modules\json-schema-traverse\README.md133210522932599450 0
 61D:\Project\Yoga\node_modules\cosmiconfig\dist\ExplorerBase.js133212756604751514 0
@@ -3623,7 +3641,7 @@
 92D:\Project\Yoga\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext\package.json133212756681762218 0
 106D:\Project\Yoga\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-gnu.node133212756668331576 0
 65D:\Project\Yoga\node_modules\htmlparser2\lib\FeedHandler.d.ts.map133212756620042379 0
-43D:\Project\Yoga\dist\whiteLogo.42396a0d.png133212768884337135 0
+43D:\Project\Yoga\dist\whiteLogo.42396a0d.png133217423662418537 0
 59D:\Project\Yoga\node_modules\htmlparser2\lib\FeedHandler.js133212756590309099 0
 59D:\Project\Yoga\node_modules\htmlparser2\lib\index.d.ts.map133212756621580849 0
 71D:\Project\Yoga\node_modules\caniuse-lite\data\features\input-search.js133210522981215201 0
@@ -3797,6 +3815,7 @@
 52D:\Project\Yoga\node_modules\events\tests\prepend.js133210522948327403 0
 69D:\Project\Yoga\node_modules\csso\lib\replace\property\font-weight.js133212756648558205 0
 65D:\Project\Yoga\node_modules\events\tests\remove-all-listeners.js133210522950941861 0
+43D:\Project\Yoga\dist\yogaWoman.6ed0d690.png133212775707064060 0
 59D:\Project\Yoga\node_modules\@parcel\watcher\src\Watcher.cc133212756626072398 0
 61D:\Project\Yoga\node_modules\events\tests\remove-listeners.js133210522951181222 0
 54D:\Project\Yoga\node_modules\@parcel\types\build-ts.js133212756590139536 0
@@ -3987,7 +4006,7 @@
 58D:\Project\Yoga\node_modules\domelementtype\lib\index.d.ts133212756623183222 0
 62D:\Project\Yoga\node_modules\domelementtype\lib\index.d.ts.map133212756619200733 0
 56D:\Project\Yoga\node_modules\domelementtype\lib\index.js133212756604526236 0
-47D:\Project\Yoga\dist\favicon-16x16.40017ce3.png133212768884337135 0
+47D:\Project\Yoga\dist\favicon-16x16.40017ce3.png133217423662408563 0
 66D:\Project\Yoga\node_modules\domelementtype\lib\esm\index.d.ts.map133212756618003046 0
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\MK.js133210522984808738 0
 61D:\Project\Yoga\node_modules\css-tree\lib\syntax\node\Hash.js133212756668261678 0
@@ -4010,7 +4029,7 @@
 84D:\Project\Yoga\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133212756627412067 0
 78D:\Project\Yoga\node_modules\dom-serializer\node_modules\entities\lib\index.js133212756611333145 0
 86D:\Project\Yoga\node_modules\dom-serializer\node_modules\entities\lib\maps\decode.json133212756617871831 0
-41D:\Project\Yoga\dist\natalie.93df29d7.jpg133212768891131501 0
+41D:\Project\Yoga\dist\natalie.93df29d7.jpg133217423670626608 0
 83D:\Project\Yoga\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133212756623375873 0
 65D:\Project\Yoga\node_modules\dom-serializer\lib\foreignNames.d.ts133212756627422034 0
 68D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture133212756678560195 1
@@ -4192,6 +4211,7 @@
 76D:\Project\Yoga\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133212756677938111 0
 78D:\Project\Yoga\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133212756677987977 0
 62D:\Project\Yoga\node_modules\css-tree\lib\syntax\node\Ratio.js133212756678057790 0
+59D:\Project\Yoga\dist\classesSectionBackground2.dbd04677.png133212775706907843 0
 69D:\Project\Yoga\node_modules\css-tree\lib\syntax\node\SelectorList.js133212756678340754 0
 74D:\Project\Yoga\node_modules\caniuse-lite\data\features\resource-timing.js133210522993001673 0
 59D:\Project\Yoga\node_modules\@types\eslint\rules\index.d.ts133210522944058813 0
@@ -4205,6 +4225,7 @@
 65D:\Project\Yoga\node_modules\css-tree\lib\syntax\atrule\import.js133212756669609860 0
 64D:\Project\Yoga\node_modules\css-tree\lib\syntax\atrule\media.js133212756674431364 0
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\GQ.js133210522979786952 0
+39D:\Project\Yoga\dist\index.8845453e.css133212775707064060 0
 58D:\Project\Yoga\node_modules\css-tree\lib\parser\create.js133212756643752211 0
 57D:\Project\Yoga\node_modules\css-tree\lib\parser\index.js133212756671283045 0
 56D:\Project\Yoga\node_modules\css-tree\lib\lexer\error.js133212756661645503 0
@@ -4249,7 +4270,7 @@
 53D:\Project\Yoga\node_modules\css-select\lib\sort.d.ts133212756652222886 0
 88D:\Project\Yoga\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.umd.js.map133210522931951191 0
 51D:\Project\Yoga\node_modules\css-select\lib\sort.js133212756624256472 0
-41D:\Project\Yoga\dist\manIcon.133d3fd7.png133212768890570293 0
+41D:\Project\Yoga\dist\manIcon.133d3fd7.png133217423664293525 0
 54D:\Project\Yoga\node_modules\css-select\lib\types.d.ts133212756656857568 0
 58D:\Project\Yoga\node_modules\css-select\lib\types.d.ts.map133212756645039803 0
 98D:\Project\Yoga\node_modules\@webassemblyjs\ast\lib\transform\denormalize-type-references\index.js133210522955643071 0
@@ -4344,7 +4365,7 @@
 55D:\Project\Yoga\node_modules\caniuse-lite\data\features133210523007010441 1
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\AI.js133210522947499615 0
 52D:\Project\Yoga\node_modules\ajv\lib\dot\missing.def133210522943649913 0
-42D:\Project\Yoga\dist\bearband.81002d2a.png133212768891196782 0
+42D:\Project\Yoga\dist\bearband.81002d2a.png133217423670656520 0
 64D:\Project\Yoga\node_modules\caniuse-lite\data\regions\alt-af.js133210522947928456 0
 64D:\Project\Yoga\node_modules\caniuse-lite\data\regions\alt-na.js133210522951191198 0
 64D:\Project\Yoga\node_modules\caniuse-lite\data\regions\alt-sa.js133210522952587185 0
@@ -4448,6 +4469,7 @@
 68D:\Project\Yoga\node_modules\caniuse-lite\data\features\classlist.js133210522967113611 0
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\SI.js133210522998431628 0
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\SN.js133210522998927199 0
+40D:\Project\Yoga\dist\energy.17e15f16.png133212775706907843 0
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\SO.js133210522999086959 0
 60D:\Project\Yoga\node_modules\caniuse-lite\data\regions\SR.js133210523002260351 0
 83D:\Project\Yoga\node_modules\@parcel\core\test\fixtures\custom-targets\package.json133212756681821942 0
@@ -4493,7 +4515,7 @@
 79D:\Project\Yoga\node_modules\caniuse-lite\data\features\background-clip-text.js133210522960958564 0
 78D:\Project\Yoga\node_modules\caniuse-lite\data\features\background-img-opts.js133210522960998469 0
 88D:\Project\Yoga\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133210522961138090 0
-40D:\Project\Yoga\dist\pricing.a6145edb.js133212768885240345 0
+40D:\Project\Yoga\dist\pricing.a6145edb.js133217423663306162 0
 74D:\Project\Yoga\node_modules\caniuse-lite\data\features\background-sync.js133210522961187955 0
 116D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\package.json133212756677329721 0
 75D:\Project\Yoga\node_modules\caniuse-lite\data\features\beforeafterprint.js133210522961596855 0
@@ -4506,6 +4528,7 @@
 68D:\Project\Yoga\node_modules\caniuse-lite\data\features\clipboard.js133210522967213333 0
 63D:\Project\Yoga\node_modules\caniuse-lite\data\features\colr.js133210522967362940 0
 82D:\Project\Yoga\node_modules\caniuse-lite\data\features\comparedocumentposition.js133210522967382899 0
+40D:\Project\Yoga\dist\candle.0c2a4127.png133212775706907843 0
 74D:\Project\Yoga\node_modules\@parcel\runtime-browser-hmr\src\HMRRuntime.js133212756618638669 0
 80D:\Project\Yoga\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js133210522968041124 0
 81D:\Project\Yoga\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133210522968081024 0
@@ -4541,6 +4564,7 @@
 78D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-filter-function.js133210522971389234 0
 53D:\Project\Yoga\node_modules\ajv\lib\dot\validate.jst133210522966080880 0
 75D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-first-letter.js133210522971459058 0
+58D:\Project\Yoga\dist\classesSectionBackground.9448a94f.jpg133212775706907843 0
 68D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-fixed.js133210522971508943 0
 76D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-focus-visible.js133210522971528858 0
 75D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-focus-within.js133210522971538838 0
@@ -4555,6 +4579,7 @@
 55D:\Project\Yoga\node_modules\@lezer\common\package.json133212756617443546 0
 83D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js133210522972397882 0
 77D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-initial-letter.js133210522972457740 0
+48D:\Project\Yoga\dist\arrowBlackIcon.2fed9151.png133212775706907843 0
 77D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-letter-spacing.js133210522972527538 0
 81D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-media-range-syntax.js133210522972726995 0
 75D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-mediaqueries.js133210522973276854 0
@@ -4570,7 +4595,7 @@
 59D:\Project\Yoga\node_modules\@parcel\core\src\loadDotEnv.js133212756674630828 0
 71D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-overflow.js133210522973506240 0
 82D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-overscroll-behavior.js133210522973526182 0
-43D:\Project\Yoga\dist\clockIcon.2dcb2d9d.png133212768890590246 0
+43D:\Project\Yoga\dist\clockIcon.2dcb2d9d.png133217423664293525 0
 73D:\Project\Yoga\node_modules\caniuse-lite\data\features\css-page-break.js133210522973546130 0
 71D:\Project\Yoga\node_modules\@parcel\config-default\test\config.test.js133212756596953057 0
 62D:\Project\Yoga\node_modules\caniuse-lite\data\features\u2f.js133210523004174933 0
@@ -4616,7 +4641,7 @@
 82D:\Project\Yoga\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133210522975326681 0
 81D:\Project\Yoga\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js133210522975376548 0
 69D:\Project\Yoga\node_modules\caniuse-lite\data\features\decorators.js133210522975396501 0
-40D:\Project\Yoga\dist\candle.b7ed214d.png133212768890715035 0
+40D:\Project\Yoga\dist\candle.b7ed214d.png133217423664313474 0
 76D:\Project\Yoga\node_modules\caniuse-lite\data\features\deviceorientation.js133210522975436390 0
 70D:\Project\Yoga\node_modules\caniuse-lite\data\features\textcontent.js133210523003329316 0
 65D:\Project\Yoga\node_modules\caniuse-lite\data\features\dialog.js133210522975476288 0
@@ -4657,6 +4682,7 @@
 40D:\Project\Yoga\node_modules\ajv\LICENSE133210522923344219 0
 69D:\Project\Yoga\node_modules\caniuse-lite\data\features\fullscreen.js133210522978276396 0
 80D:\Project\Yoga\node_modules\caniuse-lite\data\features\getboundingclientrect.js133210522978425983 0
+56D:\Project\Yoga\dist\android-chrome-192x192.bdeeb546.png133212775706907843 0
 75D:\Project\Yoga\node_modules\caniuse-lite\data\features\getcomputedstyle.js133210522978455897 0
 68D:\Project\Yoga\node_modules\caniuse-lite\data\features\gyroscope.js133210522979986353 0
 78D:\Project\Yoga\node_modules\caniuse-lite\data\features\hardwareconcurrency.js133210522980006347 0
@@ -4701,6 +4727,7 @@
 89D:\Project\Yoga\node_modules\caniuse-lite\data\features\keyboardevent-getmodifierstate.js133210522982894789 0
 78D:\Project\Yoga\node_modules\caniuse-lite\data\features\keyboardevent-which.js133210522982954627 0
 72D:\Project\Yoga\node_modules\caniuse-lite\data\features\link-icon-png.js133210522983343589 0
+42D:\Project\Yoga\dist\meredith.cf58d747.jpg133212775707064060 0
 78D:\Project\Yoga\node_modules\caniuse-lite\data\features\link-rel-preconnect.js133210522983604927 0
 71D:\Project\Yoga\node_modules\caniuse-lite\data\features\magnetometer.js133210522984220316 0
 65D:\Project\Yoga\node_modules\caniuse-lite\data\features\mathml.js133210522984300101 0
@@ -4982,12 +5009,13 @@
 57D:\Project\Yoga\node_modules\@webassemblyjs\wasm-edit\lib133210522938543558 1
 61D:\Project\Yoga\node_modules\@webassemblyjs\wasm-edit\LICENSE133210522923224524 0
 66D:\Project\Yoga\node_modules\@webassemblyjs\wasm-edit\package.json133210522922486498 0
+52D:\Project\Yoga\dist\supineBeginersPose.206642c7.jpg133212775706907843 0
 63D:\Project\Yoga\node_modules\@webassemblyjs\wasm-edit\README.md133210522924471194 0
 66D:\Project\Yoga\node_modules\@webassemblyjs\wasm-edit\lib\apply.js133210522936399291 0
 66D:\Project\Yoga\node_modules\@webassemblyjs\wasm-edit\esm\index.js133210522932449857 0
 52D:\Project\Yoga\node_modules\@webassemblyjs\utf8\esm133210522930774329 1
 52D:\Project\Yoga\node_modules\@webassemblyjs\utf8\lib133210522939191829 1
-52D:\Project\Yoga\dist\handstandVariation.a908b2e2.jpg133212768890630147 0
+52D:\Project\Yoga\dist\handstandVariation.a908b2e2.jpg133217423664303499 0
 61D:\Project\Yoga\node_modules\@webassemblyjs\utf8\package.json133210522922426702 0
 52D:\Project\Yoga\node_modules\@webassemblyjs\utf8\src133210522944068789 1
 62D:\Project\Yoga\node_modules\@webassemblyjs\utf8\test\index.js133210522945873956 0
@@ -5002,6 +5030,7 @@
 61D:\Project\Yoga\node_modules\@webassemblyjs\utf8\esm\index.js133210522931173271 0
 54D:\Project\Yoga\node_modules\@webassemblyjs\leb128\esm133210522934634015 1
 54D:\Project\Yoga\node_modules\@webassemblyjs\leb128\lib133210522943460410 1
+40D:\Project\Yoga\dist\aboutUs.cfb28294.js133212775707064060 0
 62D:\Project\Yoga\node_modules\@webassemblyjs\leb128\LICENSE.txt133210522923234491 0
 62D:\Project\Yoga\node_modules\@webassemblyjs\leb128\lib\bits.js133210522938733058 0
 60D:\Project\Yoga\node_modules\@parcel\source-map\package.json133212756635559049 0
@@ -5023,6 +5052,7 @@
 67D:\Project\Yoga\node_modules\@webassemblyjs\helper-wasm-section\lib133210522943430494 1
 71D:\Project\Yoga\node_modules\@webassemblyjs\helper-wasm-section\LICENSE133210522923074925 0
 76D:\Project\Yoga\node_modules\@webassemblyjs\helper-wasm-section\package.json133210522922436631 0
+43D:\Project\Yoga\dist\authentic.cc2c5e32.png133212775707064060 0
 77D:\Project\Yoga\node_modules\@webassemblyjs\helper-wasm-section\lib\create.js133210522938563511 0
 81D:\Project\Yoga\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133212756625860990 0
 77D:\Project\Yoga\node_modules\@webassemblyjs\helper-wasm-section\lib\resize.js133210522943629957 0
@@ -5037,6 +5067,7 @@
 79D:\Project\Yoga\node_modules\@webassemblyjs\helper-wasm-bytecode\esm\section.js133210522928969157 0
 46D:\Project\Yoga\node_modules\@parcel\graph\src133212756634858792 1
 62D:\Project\Yoga\node_modules\@webassemblyjs\helper-numbers\esm133210522924401378 1
+47D:\Project\Yoga\dist\workoutPhoto3.c204029b.jpg133212775706907843 0
 62D:\Project\Yoga\node_modules\@webassemblyjs\helper-numbers\lib133210522928500412 1
 66D:\Project\Yoga\node_modules\@webassemblyjs\helper-numbers\LICENSE133210522923064950 0
 62D:\Project\Yoga\node_modules\@webassemblyjs\helper-numbers\src133210522931961162 1
@@ -5094,6 +5125,7 @@
 90D:\Project\Yoga\node_modules\@webassemblyjs\ast\esm\transform\ast-module-to-module-context133210522945694442 1
 89D:\Project\Yoga\node_modules\@webassemblyjs\ast\esm\transform\denormalize-type-references133210522947150592 1
 98D:\Project\Yoga\node_modules\@webassemblyjs\ast\esm\transform\denormalize-type-references\index.js133210522947250281 0
+38D:\Project\Yoga\dist\dove.4c998105.png133212775706907843 0
 42D:\Project\Yoga\node_modules\@types\eslint133210522936399291 1
 49D:\Project\Yoga\node_modules\@types\node\readline133210522963621438 1
 48D:\Project\Yoga\node_modules\@types\eslint-scope133210522925638079 1
@@ -5219,7 +5251,7 @@
 55D:\Project\Yoga\node_modules\@types\json-schema\LICENSE133210522922436631 0
 60D:\Project\Yoga\node_modules\@types\json-schema\package.json133210522928969157 0
 57D:\Project\Yoga\node_modules\@types\json-schema\README.md133210522923084893 0
-37D:\Project\Yoga\dist\Yoga.3464ddca.js133212768890744963 0
+37D:\Project\Yoga\dist\Yoga.3464ddca.js133217423670307455 0
 52D:\Project\Yoga\node_modules\@types\estree\flow.d.ts133210522924550990 0
 53D:\Project\Yoga\node_modules\@types\estree\index.d.ts133210522928659987 0
 50D:\Project\Yoga\node_modules\@types\estree\LICENSE133210522922516420 0
@@ -5308,7 +5340,7 @@
 59D:\Project\Yoga\node_modules\@parcel\core\src\buildCache.js133212756650499663 0
 64D:\Project\Yoga\node_modules\@parcel\watcher\prebuilds\win32-x64133212756668311612 1
 56D:\Project\Yoga\node_modules\@swc\helpers\src\_throw.mjs133212756680048578 0
-43D:\Project\Yoga\dist\authentic.303d8b59.png133212768891196782 0
+43D:\Project\Yoga\dist\authentic.303d8b59.png133217423670706395 0
 59D:\Project\Yoga\node_modules\@swc\helpers\src\_to_array.mjs133212756680058549 0
 63D:\Project\Yoga\node_modules\@swc\helpers\src\_to_primitive.mjs133212756680078521 0
 62D:\Project\Yoga\node_modules\@swc\helpers\src\_ts_decorate.mjs133212756680108426 0
@@ -5333,7 +5365,7 @@
 94D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\source.js133212756673922720 0
 77D:\Project\Yoga\node_modules\@swc\helpers\lib\_check_private_redeclaration.js133212756624945273 0
 76D:\Project\Yoga\node_modules\@swc\helpers\lib\_class_apply_descriptor_get.js133212756627272439 0
-43D:\Project\Yoga\dist\arrowIcon.465f705c.png133212768890580282 0
+43D:\Project\Yoga\dist\arrowIcon.465f705c.png133217423664293525 0
 76D:\Project\Yoga\node_modules\@swc\helpers\lib\_class_apply_descriptor_set.js133212756628025943 0
 79D:\Project\Yoga\node_modules\@swc\helpers\lib\_class_apply_descriptor_update.js133212756629445349 0
 80D:\Project\Yoga\node_modules\@swc\helpers\lib\_class_extract_field_descriptor.js133212756635200000 0
@@ -5350,6 +5382,7 @@
 57D:\Project\Yoga\node_modules\@swc\helpers\lib\_extends.js133212756659494640 0
 66D:\Project\Yoga\node_modules\@swc\helpers\lib\_get_prototype_of.js133212756659753953 0
 64D:\Project\Yoga\node_modules\@swc\helpers\lib\_inherits_loose.js133212756660689022 0
+52D:\Project\Yoga\dist\workTowCompasPose2.63747a7d.jpg133212775706907843 0
 77D:\Project\Yoga\node_modules\@swc\helpers\lib\_initializer_define_property.js133212756660812451 0
 60D:\Project\Yoga\node_modules\@swc\helpers\lib\_instanceof.js133212756662066619 0
 77D:\Project\Yoga\node_modules\@swc\helpers\lib\_is_native_reflect_construct.js133212756664834802 0
@@ -5466,7 +5499,7 @@
 56D:\Project\Yoga\node_modules\@parcel\watcher\binding.gyp133212756634818898 0
 55D:\Project\Yoga\node_modules\@parcel\watcher\index.d.ts133212756673733233 0
 53D:\Project\Yoga\node_modules\@parcel\watcher\index.js133212756650499663 0
-56D:\Project\Yoga\dist\android-chrome-192x192.e418133c.png133212768884406951 0
+56D:\Project\Yoga\dist\android-chrome-192x192.e418133c.png133217423662807501 0
 58D:\Project\Yoga\node_modules\@parcel\watcher\index.js.flow133212756634439924 0
 54D:\Project\Yoga\node_modules\@parcel\watcher\README.md133212756652414053 0
 60D:\Project\Yoga\node_modules\@parcel\watcher\src\Debounce.hh133212756638365603 0
@@ -5519,6 +5552,7 @@
 72D:\Project\Yoga\node_modules\@parcel\utils\test\input\config\config.json133212756673892789 0
 71D:\Project\Yoga\node_modules\@parcel\utils\test\input\config\empty.json133212756673932681 0
 62D:\Project\Yoga\node_modules\@parcel\utils\src\alternatives.js133212756611943149 0
+37D:\Project\Yoga\dist\HSH.be57f0d7.png133212775707064060 0
 73D:\Project\Yoga\node_modules\@parcel\source-map\dist\wasm-bindings-web.js133212756634689217 0
 59D:\Project\Yoga\node_modules\@parcel\utils\src\ansi-html.js133212756618082830 0
 54D:\Project\Yoga\node_modules\@parcel\utils\src\blob.js133212756619210689 0
@@ -5567,6 +5601,7 @@
 66D:\Project\Yoga\node_modules\@parcel\transformer-svg\src\inline.js133212756611572529 0
 74D:\Project\Yoga\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133212756620298572 0
 72D:\Project\Yoga\node_modules\@parcel\transformer-svg\lib\dependencies.js133212756590508561 0
+52D:\Project\Yoga\dist\handstandVariation.1254a00f.jpg133212775706907843 0
 66D:\Project\Yoga\node_modules\@parcel\transformer-svg\lib\inline.js133212756605708970 0
 74D:\Project\Yoga\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js133212756619210689 0
 75D:\Project\Yoga\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE133212756588995248 0
@@ -5615,6 +5650,7 @@
 76D:\Project\Yoga\node_modules\@parcel\transformer-image\src\validateConfig.js133212756618878920 0
 78D:\Project\Yoga\node_modules\@parcel\transformer-image\lib\ImageTransformer.js133212756590568411 0
 73D:\Project\Yoga\node_modules\@parcel\transformer-html\src\dependencies.js133212756604376639 0
+41D:\Project\Yoga\dist\manIcon.83d5fd10.png133212775706907843 0
 76D:\Project\Yoga\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133212756611612389 0
 67D:\Project\Yoga\node_modules\@parcel\transformer-html\src\inline.js133212756619250596 0
 76D:\Project\Yoga\node_modules\@parcel\transformer-html\lib\HTMLTransformer.js133212756605728911 0
@@ -5688,9 +5724,10 @@
 74D:\Project\Yoga\node_modules\@parcel\runtime-js\lib\helpers\cacheLoader.js133212756619190748 0
 64D:\Project\Yoga\node_modules\@parcel\runtime-js\lib\helpers\node133212756656777772 1
 81D:\Project\Yoga\node_modules\@parcel\runtime-js\lib\helpers\worker\wasm-loader.js133212756657037080 0
-31D:\Project\Yoga\dist\index.html133212768890231141 0
+31D:\Project\Yoga\dist\index.html133217423662408563 0
 67D:\Project\Yoga\node_modules\@parcel\core\test\fixtures\main-global133212756682011436 1
 78D:\Project\Yoga\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133212756624126816 0
+43D:\Project\Yoga\dist\arrowIcon.bd6beb27.png133212775706907843 0
 61D:\Project\Yoga\node_modules\@parcel\events\src\Disposable.js133212756598512004 0
 77D:\Project\Yoga\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133212756641522396 0
 81D:\Project\Yoga\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js133212756622758100 0
@@ -5816,7 +5853,7 @@
 108D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\package.json133212756678639944 0
 99D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src133212756674411416 1
 107D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src\test.js133212756674411416 0
-39D:\Project\Yoga\dist\index.b2625c6b.css133212768884506693 0
+39D:\Project\Yoga\dist\index.b2625c6b.css133217423663306162 0
 99D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\other.js133212756671273068 0
 103D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\package.json133212756678669881 0
 87D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm133212756635269811 1
@@ -5857,7 +5894,7 @@
 125D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2133212756674032420 1
 136D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2\subfile.js133212756674032420 0
 108D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser\browser.js133212756633954714 0
-51D:\Project\Yoga\dist\workTowCompasPose.4d986ee2.jpg133212768890620177 0
+51D:\Project\Yoga\dist\workTowCompasPose.4d986ee2.jpg133217423664303499 0
 113D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\package.json133212756677206108 0
 116D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-exclude\package.json133212756677086428 0
 102D:\Project\Yoga\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias\foo.js133212756645639714 0
@@ -5889,7 +5926,7 @@
 52D:\Project\Yoga\node_modules\@parcel\hash\browser.js133212756594468142 0
 55D:\Project\Yoga\node_modules\@parcel\hash\index.js.flow133212756590169461 0
 54D:\Project\Yoga\node_modules\@parcel\hash\package.json133212756610555216 0
-47D:\Project\Yoga\dist\workoutPhoto2.bdb627f4.jpg133212768891120948 0
+47D:\Project\Yoga\dist\workoutPhoto2.bdb627f4.jpg133217423670626608 0
 59D:\Project\Yoga\node_modules\@parcel\graph\test\integration133212756590508561 1
 71D:\Project\Yoga\node_modules\@parcel\hash\parcel-hash.darwin-arm64.node133212756624146757 0
 69D:\Project\Yoga\node_modules\@parcel\hash\parcel-hash.darwin-x64.node133212756634599488 0
@@ -5902,7 +5939,7 @@
 50D:\Project\Yoga\node_modules\@parcel\graph\LICENSE133212756589005224 0
 55D:\Project\Yoga\node_modules\@parcel\graph\package.json133212756635249865 0
 47D:\Project\Yoga\node_modules\@parcel\graph\test133212756625597428 1
-40D:\Project\Yoga\dist\Ashley.8ed05d35.jpg133212768891196782 0
+40D:\Project\Yoga\dist\Ashley.8ed05d35.jpg133217423670656520 0
 68D:\Project\Yoga\node_modules\@parcel\graph\test\ContentGraph.test.js133212756622778041 0
 61D:\Project\Yoga\node_modules\@parcel\graph\test\Graph.test.js133212756626062408 0
 90D:\Project\Yoga\node_modules\@parcel\graph\test\integration\adjacency-list-shared-array.js133212756592178201 0
@@ -5911,7 +5948,7 @@
 63D:\Project\Yoga\node_modules\@parcel\graph\src\shared-buffer.js133212756634180576 0
 55D:\Project\Yoga\node_modules\@parcel\graph\lib\Graph.js133212756623780977 0
 55D:\Project\Yoga\node_modules\@parcel\graph\lib\index.js133212756627402094 0
-38D:\Project\Yoga\dist\dove.6fe85cc6.png133212768891120948 0
+38D:\Project\Yoga\dist\dove.6fe85cc6.png133217423664313474 0
 63D:\Project\Yoga\node_modules\@parcel\graph\lib\shared-buffer.js133212756629572897 0
 81D:\Project\Yoga\node_modules\@parcel\fs-search\fs-search.linux-arm-gnueabihf.node133212756637434551 0
 75D:\Project\Yoga\node_modules\@parcel\fs-search\fs-search.linux-x64-gnu.node133212756659235339 0
@@ -5971,6 +6008,7 @@
 116D:\Project\Yoga\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js133212756674042400 0
 120D:\Project\Yoga\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json133212756682061302 0
 71D:\Project\Yoga\node_modules\@parcel\core\test\fixtures\parcel\index.js133212756673922720 0
+48D:\Project\Yoga\dist\backGroundRoad.b7fca709.jpg133212775706907843 0
 72D:\Project\Yoga\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock133212756682141093 0
 80D:\Project\Yoga\node_modules\@parcel\core\test\fixtures\main-global\package.json133212756682021414 0
 89D:\Project\Yoga\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133212756682001474 0
@@ -5993,6 +6031,7 @@
 59D:\Project\Yoga\node_modules\@parcel\core\src\AssetGraph.js133212756641342870 0
 59D:\Project\Yoga\node_modules\@parcel\core\src\assetUtils.js133212756648797947 0
 58D:\Project\Yoga\node_modules\@parcel\core\src\constants.js133212756667069470 0
+54D:\Project\Yoga\dist\advancedBackBending2.b1dc0c00.jpg133212775706907843 0
 59D:\Project\Yoga\node_modules\@parcel\core\src\Dependency.js133212756668381426 0
 68D:\Project\Yoga\node_modules\@parcel\core\src\dumpGraphToGraphViz.js133212756671083575 0
 54D:\Project\Yoga\node_modules\@parcel\core\src\index.js133212756673593590 0
@@ -6100,12 +6139,13 @@
 58D:\Project\Yoga\node_modules\@lezer\common\dist\index.d.ts133212756619529524 0
 56D:\Project\Yoga\node_modules\@lezer\common\dist\index.js133212756611043918 0
 52D:\Project\Yoga\node_modules\@jridgewell\gen-mapping133210522942173859 1
+47D:\Project\Yoga\dist\workoutPhoto5.6c23e37d.jpg133212775706907843 0
 52D:\Project\Yoga\node_modules\@jridgewell\resolve-uri133210522934504359 1
 50D:\Project\Yoga\node_modules\@jridgewell\set-array133210522940149267 1
 51D:\Project\Yoga\node_modules\@jridgewell\source-map133210522940338771 1
 59D:\Project\Yoga\node_modules\@jridgewell\trace-mapping\dist133210522942223730 1
 62D:\Project\Yoga\node_modules\@jridgewell\trace-mapping\LICENSE133210522922396727 0
-42D:\Project\Yoga\dist\login.3249096d.js.map133212768889752779 0
+42D:\Project\Yoga\dist\login.3249096d.js.map133217423663356036 0
 81D:\Project\Yoga\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs.map133210522931542274 0
 80D:\Project\Yoga\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.umd.js133210522923503782 0
 85D:\Project\Yoga\node_modules\@jridgewell\trace-mapping\dist\types\strip-filename.d.ts133210522947748945 0
@@ -6116,7 +6156,7 @@
 61D:\Project\Yoga\node_modules\@jridgewell\source-map\README.md133210522940638033 0
 71D:\Project\Yoga\node_modules\@jridgewell\source-map\dist\source-map.mjs133210522943639938 0
 62D:\Project\Yoga\node_modules\@jridgewell\source-map\dist\types133210522944078783 1
-43D:\Project\Yoga\dist\index.b2625c6b.css.map133212768889080128 0
+43D:\Project\Yoga\dist\index.b2625c6b.css.map133217423663356036 0
 78D:\Project\Yoga\node_modules\@jridgewell\source-map\dist\types\source-map.d.ts133210522944168529 0
 58D:\Project\Yoga\node_modules\@jridgewell\set-array\LICENSE133210522922062053 0
 60D:\Project\Yoga\node_modules\@jridgewell\set-array\README.md133210522934514333 0
@@ -6131,6 +6171,7 @@
 57D:\Project\Yoga\node_modules\@jridgewell\gen-mapping\dist133210522939750336 1
 65D:\Project\Yoga\node_modules\@jridgewell\gen-mapping\package.json133210522924600839 0
 71D:\Project\Yoga\node_modules\@jridgewell\gen-mapping\src\gen-mapping.ts133210522943649913 0
+44D:\Project\Yoga\dist\aboutUs.cfb28294.js.map133212775707802529 0
 77D:\Project\Yoga\node_modules\@jridgewell\gen-mapping\src\sourcemap-segment.ts133210522945834063 0
 65D:\Project\Yoga\node_modules\@jridgewell\gen-mapping\src\types.ts133210522947300142 0
 73D:\Project\Yoga\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.mjs133210522939181855 0
@@ -6183,6 +6224,7 @@
 79D:\Project\Yoga\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133212756711803101 0
 71D:\Project\Yoga\node_modules\.bin\node-gyp-build-optional-packages-test133212756711813062 0
 75D:\Project\Yoga\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133212756711803101 0
+42D:\Project\Yoga\dist\bearband.3c6baa73.png133212775707064060 0
 70D:\Project\Yoga\node_modules\.bin\node-gyp-build-optional-packages.ps1133212756711803101 0
 40D:\Project\Yoga\node_modules\.bin\terser133210523007495311 0
 61D:\Project\Yoga\node_modules\.bin\node-gyp-build-optional.cmd133212756711803101 0
@@ -6198,38 +6240,63 @@
 44D:\Project\Yoga\node_modules\.bin\terser.ps1133210523007495311 0
 45D:\Project\Yoga\node_modules\.bin\webpack.cmd133210523007505285 0
 45D:\Project\Yoga\node_modules\.bin\webpack.ps1133210523007505285 0
-40D:\Project\Yoga\dist\aboutUs.ac522c14.js133212768890241122 0
-44D:\Project\Yoga\dist\aboutUs.ac522c14.js.map133212768891762847 0
-44D:\Project\Yoga\dist\aboutUs.eb9b7118.js.map133212768891772811 0
-33D:\Project\Yoga\dist\aboutUs.html133212768890231141 0
-53D:\Project\Yoga\dist\advancedBackBending.8c3e6b61.jpg133212768890645230 0
-54D:\Project\Yoga\dist\advancedBackBending2.7a746124.jpg133212768890665205 0
-56D:\Project\Yoga\dist\android-chrome-512x512.ec7fc738.png133212768884386999 0
-48D:\Project\Yoga\dist\arrowBlackIcon.c459bbe4.png133212768884337135 0
-51D:\Project\Yoga\dist\backGroundPricing.ed785d01.jpg133212768885055213 0
-47D:\Project\Yoga\dist\benefitsPhoto.85111ce9.jpg133212768890695095 0
-44D:\Project\Yoga\dist\buttonIcon.27f57ebd.png133212768884496728 0
-58D:\Project\Yoga\dist\classesAboutUsBackground.60ab878a.jpg133212768884466800 0
-59D:\Project\Yoga\dist\classesSectionBackground2.571b5423.png133212768884446842 0
-44D:\Project\Yoga\dist\compasPose.47a1632f.jpg133212768890590246 0
-47D:\Project\Yoga\dist\favicon-32x32.2267d252.png133212768884506693 0
-50D:\Project\Yoga\dist\footerBackground.f185ab83.png133212768884416927 0
-38D:\Project\Yoga\dist\hand.f891d818.png133212768891110968 0
-42D:\Project\Yoga\dist\hipsters.b0775aad.png133212768891266593 0
-37D:\Project\Yoga\dist\HSH.00a756da.png133212768891266593 0
-38D:\Project\Yoga\dist\index.09c24910.js133212768885240345 0
-31D:\Project\Yoga\dist\login.html133212768890221175 0
-41D:\Project\Yoga\dist\logoNav.d7ca4c8c.png133212768884347116 0
-44D:\Project\Yoga\dist\LotousPose.5dc06616.jpg133212768890600223 0
-42D:\Project\Yoga\dist\meredith.38bc716b.jpg133212768891186803 0
-44D:\Project\Yoga\dist\pricing.a6145edb.js.map133212768889752779 0
-54D:\Project\Yoga\dist\seatedAndSupinePose2.b216dbf6.jpg133212768890645230 0
-37D:\Project\Yoga\dist\site.webmanifest133212768968567211 0
-52D:\Project\Yoga\dist\supineBeginersPose.e2a53414.jpg133212768890610194 0
-47D:\Project\Yoga\dist\workoutPhoto1.10559b87.jpg133212768891120948 0
-47D:\Project\Yoga\dist\workoutPhoto3.e61a5ae3.jpg133212768890705070 0
-47D:\Project\Yoga\dist\workoutPhoto5.c7ad9ea2.jpg133212768891131501 0
-52D:\Project\Yoga\dist\workTowCompasPose2.124616b7.jpg133212768890675157 0
-41D:\Project\Yoga\dist\Yoga.3464ddca.js.map133212768892078728 0
-44D:\Project\Yoga\dist\yogaCarpet.66cdb85f.png133212768885055213 0
-29D:\Project\Yoga\css\style.css133212056788873669 0
+40D:\Project\Yoga\dist\aboutUs.ac522c14.js133217423670267562 0
+44D:\Project\Yoga\dist\aboutUs.ac522c14.js.map133217423671354659 0
+44D:\Project\Yoga\dist\aboutUs.eb9b7118.js.map133217423671334708 0
+33D:\Project\Yoga\dist\aboutUs.html133217423662398596 0
+53D:\Project\Yoga\dist\advancedBackBending.198351fa.jpg133212775706907843 0
+53D:\Project\Yoga\dist\advancedBackBending.8c3e6b61.jpg133217423664303499 0
+54D:\Project\Yoga\dist\advancedBackBending2.7a746124.jpg133217423664303499 0
+56D:\Project\Yoga\dist\android-chrome-512x512.33072073.png133212775706907843 0
+56D:\Project\Yoga\dist\android-chrome-512x512.ec7fc738.png133217423662418537 0
+48D:\Project\Yoga\dist\arrowBlackIcon.c459bbe4.png133217423662827438 0
+51D:\Project\Yoga\dist\backGroundAboutUs.038c01d2.png133212775706907843 0
+51D:\Project\Yoga\dist\backGroundPricing.ed785d01.jpg133217423662797537 0
+46D:\Project\Yoga\dist\backyNiklson.0b4fae2e.jpg133212775706907843 0
+46D:\Project\Yoga\dist\beginnerPose.fa82a559.jpg133212775706907843 0
+47D:\Project\Yoga\dist\benefitsPhoto.85111ce9.jpg133217423664313474 0
+43D:\Project\Yoga\dist\bodyShape.85ab3da8.png133212775706907843 0
+44D:\Project\Yoga\dist\buttonIcon.252ff67e.png133212775706907843 0
+44D:\Project\Yoga\dist\buttonIcon.27f57ebd.png133217423662428507 0
+58D:\Project\Yoga\dist\classesAboutUsBackground.60ab878a.jpg133217423662428507 0
+58D:\Project\Yoga\dist\classesAboutUsBackground.9b596122.jpg133212775706907843 0
+59D:\Project\Yoga\dist\classesSectionBackground2.571b5423.png133217423662418537 0
+43D:\Project\Yoga\dist\clockIcon.15a82883.png133212775706907843 0
+44D:\Project\Yoga\dist\compasPose.47a1632f.jpg133217423664293525 0
+44D:\Project\Yoga\dist\compasPose.80cf659e.jpg133212775706907843 0
+47D:\Project\Yoga\dist\favicon-16x16.94c4a9c2.png133212775706907843 0
+47D:\Project\Yoga\dist\favicon-32x32.2267d252.png133217423662418537 0
+50D:\Project\Yoga\dist\footerBackground.064e7ad8.png133212775706907843 0
+50D:\Project\Yoga\dist\footerBackground.f185ab83.png133217423662418537 0
+38D:\Project\Yoga\dist\hand.f891d818.png133217423664313474 0
+47D:\Project\Yoga\dist\handstandPose.7bd52bb9.jpg133212775706907843 0
+42D:\Project\Yoga\dist\hipsters.b0775aad.png133217423670706395 0
+42D:\Project\Yoga\dist\hipsters.cfd11475.png133212775707064060 0
+37D:\Project\Yoga\dist\HSH.00a756da.png133217423670716360 0
+38D:\Project\Yoga\dist\index.09c24910.js133217423663306162 0
+42D:\Project\Yoga\dist\index.8d76c64d.js.map133212775707802529 0
+38D:\Project\Yoga\dist\jeff.389a7c12.jpg133212775707064060 0
+31D:\Project\Yoga\dist\login.html133217423662398596 0
+41D:\Project\Yoga\dist\logoNav.d7ca4c8c.png133217423662438484 0
+41D:\Project\Yoga\dist\logoNav.e910cbab.png133212775706907843 0
+46D:\Project\Yoga\dist\lotosPoseBig.e70a1be3.jpg133212775706907843 0
+44D:\Project\Yoga\dist\LotousPose.14e85d2d.jpg133212775706907843 0
+44D:\Project\Yoga\dist\LotousPose.5dc06616.jpg133217423664303499 0
+47D:\Project\Yoga\dist\mainBackround.64c11fae.jpg133212775706907843 0
+42D:\Project\Yoga\dist\meredith.38bc716b.jpg133217423670656520 0
+44D:\Project\Yoga\dist\yogaCarpet.66cdb85f.png133217423662807501 0
+41D:\Project\Yoga\dist\natalie.7f6491a5.jpg133212775706907843 0
+44D:\Project\Yoga\dist\pricing.a6145edb.js.map133217423663356036 0
+44D:\Project\Yoga\dist\restaurant.3158ece7.png133212775707064060 0
+54D:\Project\Yoga\dist\seatedAndSupinePose2.b216dbf6.jpg133217423664303499 0
+37D:\Project\Yoga\dist\site.webmanifest133217423662398596 0
+52D:\Project\Yoga\dist\supineBeginersPose.e2a53414.jpg133217423664293525 0
+41D:\Project\Yoga\dist\svetlin.ccc61f69.jpg133212775706907843 0
+43D:\Project\Yoga\dist\whiteLogo.893cd6dc.png133212775706907843 0
+47D:\Project\Yoga\dist\workoutPhoto1.10559b87.jpg133217423670317440 0
+47D:\Project\Yoga\dist\workoutPhoto3.e61a5ae3.jpg133217423664303499 0
+47D:\Project\Yoga\dist\workoutPhoto5.c7ad9ea2.jpg133217423670646544 0
+52D:\Project\Yoga\dist\workTowCompasPose2.124616b7.jpg133217423664303499 0
+41D:\Project\Yoga\dist\Yoga.3464ddca.js.map133217423671384580 0
+44D:\Project\Yoga\dist\yogaCarpet.8deef800.png133212775706907843 0
+29D:\Project\Yoga\css\style.css133217423634679282 0
