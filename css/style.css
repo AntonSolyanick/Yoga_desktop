@@ -8,8 +8,9 @@ html,
 body,
 main,
 section {
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
 }
 
 .index--body {
@@ -66,18 +67,16 @@ nav {
   text-align: center;
   font-size: 300%;
   font-weight: 300;
+  margin-top: 150px;
 }
 
 .benefits--section {
   display: flex;
   justify-content: space-around;
-  flex-wrap: wrap;
   margin-top: 32%;
   background-image: url("/src/images/benefitsBackround.jpg");
   background-repeat: no-repeat;
   background-position-x: right;
-  margin-right: 0;
-  padding-right: 0;
 }
 
 li {
@@ -90,10 +89,6 @@ a {
   text-decoration: none;
 }
 
-.benefits--section {
-  display: flex;
-}
-
 .video--section {
   position: relative;
   top: -20px;
@@ -103,6 +98,7 @@ a {
 
 .benefits {
   position: relative;
+  max-width: 50%;
   top: -110px;
 }
 
@@ -110,7 +106,7 @@ a {
   display: flex;
   height: auto;
   max-width: 580px;
-  min-width: 4s00px;
+  min-width: 400px;
 }
 
 .icon {
@@ -367,8 +363,10 @@ p {
 form {
   display: flex;
 }
+
 footer {
   background-image: url(/src/images/footerBackground.png);
+  margin-top: 10px;
 }
 .footer--list--container {
   display: grid;
@@ -509,7 +507,6 @@ li svg {
 }
 
 .section--main--text {
-  margin-top: 270px;
   background-color: white;
 }
 
@@ -675,6 +672,15 @@ li svg {
 .top--text {
   margin-top: 100px;
   margin-left: 15%;
+  margin-bottom: 40px;
+  text-align: left;
+  max-width: 25%;
+}
+
+.top--text--pricing {
+  margin-top: 100px;
+  margin-left: 15%;
+  margin-bottom: 160px;
   text-align: left;
   max-width: 25%;
 }
@@ -701,16 +707,19 @@ article .button {
 }
 
 .card {
-  /* max-width: 200px; */
-
   min-width: 200px;
   margin-left: 10px;
   margin-bottom: 60px;
 }
 
 .section--cards {
-  margin-top: 20px;
-  max-width: 800px;
+  min-width: 800px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.section--cards--pricing {
+  min-width: 800px;
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -773,21 +782,23 @@ article .button {
 /*------------------------Contact us ---------------------*/
 
 .button--login {
-  left: 320px;
-  position: absolute;
-  margin-left: 20px;
+  margin-left: 15px;
 }
 
 .form--login {
-  position: relative;
   align-items: center;
+  margin-bottom: 150px;
 }
 
 .login--input {
-  position: absolute;
-  left: 160px;
   border-radius: 10px;
   padding-left: 10px;
+}
+
+.password--input {
+  border-radius: 10px;
+  padding-left: 10px;
+  margin-left: 12px;
 }
 
 .secondary--pages--body {
@@ -798,10 +809,10 @@ article .button {
 }
 
 .container--login {
-  margin-top: 8%;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
 }
 
 nav a:hover {
